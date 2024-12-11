@@ -1,8 +1,12 @@
 package application.model;
 
+import application.logging.Log;
+import application.logging.LogType;
+
 import org.json.JSONObject;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.util.Scanner;
 import java.util.UUID;
 
@@ -65,26 +69,26 @@ public class Configuration {
         this.maxTicketCapacity = maxTicketCapacity;
     }
 
-//    public void saveToFile() {
-//        JSONObject obj = new JSONObject();
-//
-//        obj.put("id", id);
-//        obj.put("totalTickets", totalTickets);
-//        obj.put("ticketReleaseRate", ticketReleaseRate);
-//        obj.put("customerRetrievalRate", customerRetrievalRate);
-//        obj.put("maxTicketCapacity", maxTicketCapacity);
-//
-//        try {
-//            File path = new File(String.format("config-[%s].json", id.toString()));
-//            FileWriter writer = new FileWriter(path);
-//
-//            writer.write(obj.toString());
-//            writer.flush();
-//            writer.close();
-//        } catch (Exception e) {
-//            Log.getInstance().record(LogType.ERROR, "Error saving configuration to file", true);
-//        }
-//    }
+    public void saveToFile() {
+        JSONObject obj = new JSONObject();
+
+        obj.put("id", id);
+        obj.put("totalTickets", totalTickets);
+        obj.put("ticketReleaseRate", ticketReleaseRate);
+        obj.put("customerRetrievalRate", customerRetrievalRate);
+        obj.put("maxTicketCapacity", maxTicketCapacity);
+
+        try {
+            File path = new File(String.format("config-[%s].json", id.toString()));
+            FileWriter writer = new FileWriter(path);
+
+            writer.write(obj.toString());
+            writer.flush();
+            writer.close();
+        } catch (Exception e) {
+            Log.getInstance().record(LogType.ERROR, "Error saving configuration to file", true);
+        }
+    }
 
     private void loadFromFile() throws Exception {
         File file = new File("default_configuration.json");
@@ -106,5 +110,4 @@ public class Configuration {
             throw new Exception("Default configuration file doesn't exist");
         }
     }
-
 }

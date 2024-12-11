@@ -66,6 +66,10 @@ public class CLI {
                         if (!executor.isRunning()) {
                             executor.start();
                             new Thread(new Observer(executor)).start();
+                            // don't interfere with other threads
+                            while (executor.isRunning()) {
+                                Thread.yield();
+                            }
                         } else {
                             System.out.println("The executor is already running");
                         }

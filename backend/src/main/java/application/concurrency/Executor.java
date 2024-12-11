@@ -45,22 +45,22 @@ public class Executor {
         Log.getInstance().record(LogType.INFO, "Executor service has been started", true);
 
         // better simulation with different intervals for each person
-        int[] cusRates = {3, 1, 5, 2, 3};
-        int[] venRates = {1, 5, 3, 10, 6};
+//        int[] cusRates = {3, 1, 5, 2, 3};
+//        int[] venRates = {1, 5, 3, 10, 6};
+//        for (int i = 1; i <= 5; i++) {
+//            vendor.add(new Thread(new Vendor(i, venRates[i - 1] * 1000)));
+//        }
+//        for (int i = 1; i <= 5; i++) {
+//            customer.add(new Thread(new Customer(i, cusRates[i - 1] * 1000)));
+//        }
+
         for (int i = 1; i <= 5; i++) {
-            vendor.add(new Thread(new Vendor(i, venRates[i - 1] * 1000)));
-        }
-        for (int i = 1; i <= 5; i++) {
-            customer.add(new Thread(new Customer(i, cusRates[i - 1] * 1000)));
+            vendor.add(new Thread(new Vendor(i, configuration.getTicketReleaseRate() * 1000)));
         }
 
-//        for (int i = 1; i <= 5; i++) {
-//            vendor.add(new Thread(new Vendor(i, configuration.getTicketReleaseRate() * 1000)));
-//        }
-//
-//        for (int i = 1; i <= 5; i++) {
-//            customer.add(new Thread(new Customer(i, configuration.getCustomerRetrievalRate() * 1000)));
-//        }
+        for (int i = 1; i <= 5; i++) {
+            customer.add(new Thread(new Customer(i, configuration.getCustomerRetrievalRate() * 1000)));
+        }
 
         for (Thread thread : vendor) {
             thread.start();

@@ -14,10 +14,9 @@ public final class Log {
         configure();
     }
 
-    public synchronized static Log getInstance() {
-        Log result = instance;
-        if (result != null) {
-            return result;
+    public static Log getInstance() {
+        if (instance != null) {
+            return instance;
         }
         synchronized (Log.class) {
             if (instance == null) {

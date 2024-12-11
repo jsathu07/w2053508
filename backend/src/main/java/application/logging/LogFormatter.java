@@ -7,6 +7,6 @@ import java.util.Date;
 public class LogFormatter extends Formatter {
     @Override
     public String format(LogRecord record) {
-        return ":: " + record.getLevel() + ", " + record.getMessage() + ", " + new Date(record.getMillis()) + "\n";
+        return record.getLevel() + ", " + record.getMessage() + ", " + new Date(record.getMillis()) + "\n";
     }
 }
