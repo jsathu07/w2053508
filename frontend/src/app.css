@@ -1,0 +1,36 @@
+* {
+    font-family: "Inter";
+}
+
+button {
+    background-color: #3CB043;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 5px 20px;
+}
+
+.log-box {
+    background-color: #EEEEEE;
+    border: 1px solid #CCCCCC;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+.ticket-box {
+    margin-top: 20px;
+}
+
+form {
+    width: 20%;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px 0;
+}
+
+input {
+    margin: 10px 0px;
+}
