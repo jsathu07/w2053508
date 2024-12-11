@@ -1,0 +1,165 @@
+:: INFO, Executor service has been started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 1 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 2 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 3 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 4 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 3 has added 636a78a9-eaf0-44f2-be9f-64a2084c950e, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 5 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 3 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 1 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 5 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 2 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 4 thread is started, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 5 is going add a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 5 has added 8bf907be-eccb-4e15-b844-5280aa7d9dff, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 3 is going to buy a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 3 has successfully bought the ticket 636a78a9-eaf0-44f2-be9f-64a2084c950e from vendor 3, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 2 is going add a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 2 has added a3377b82-4151-4ccf-a609-6cefdc797dd4, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket 8bf907be-eccb-4e15-b844-5280aa7d9dff from vendor 5, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket a3377b82-4151-4ccf-a609-6cefdc797dd4 from vendor 2, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 5 is going to buy a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 4 is going add a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 4 has added b176fb71-2478-48bc-8f39-9063e49504c3, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Vendor 1 has added 365f98d8-6efc-40e0-89c0-33849d981d84, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket b176fb71-2478-48bc-8f39-9063e49504c3 from vendor 4, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 5 has successfully bought the ticket 365f98d8-6efc-40e0-89c0-33849d981d84 from vendor 1, Wed Dec 11 18:19:12 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:13 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:13 IST 2024
+:: INFO, Vendor 1 has added d7cd3ee1-da86-4f19-aa1c-8f61369952a7, Wed Dec 11 18:19:13 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket d7cd3ee1-da86-4f19-aa1c-8f61369952a7 from vendor 1, Wed Dec 11 18:19:13 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:14 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:14 IST 2024
+:: INFO, Vendor 1 has added a35e96f6-a1a8-473b-bff4-1707b5f02677, Wed Dec 11 18:19:14 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket a35e96f6-a1a8-473b-bff4-1707b5f02677 from vendor 1, Wed Dec 11 18:19:14 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:14 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Vendor 3 has added 7df8b3d9-2f35-4982-91b7-6c2e39850986, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 7df8b3d9-2f35-4982-91b7-6c2e39850986 from vendor 3, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Customer 5 is going to buy a ticket, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Vendor 1 has added e41612d4-8120-40ad-857e-58b2412d1b49, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket e41612d4-8120-40ad-857e-58b2412d1b49 from vendor 1, Wed Dec 11 18:19:15 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:16 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:16 IST 2024
+:: INFO, Vendor 1 has added bc67237a-90cc-403f-948c-4fbda4c789be, Wed Dec 11 18:19:16 IST 2024
+:: INFO, Customer 5 has successfully bought the ticket bc67237a-90cc-403f-948c-4fbda4c789be from vendor 1, Wed Dec 11 18:19:16 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:16 IST 2024
+:: INFO, Vendor 2 is going add a ticket, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Vendor 2 has added 4181335f-8553-46fb-b275-5e5f10f1e783, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 4181335f-8553-46fb-b275-5e5f10f1e783 from vendor 2, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Customer 3 is going to buy a ticket, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Vendor 1 has added 73401036-8729-43d5-8ce7-3f530d0f8035, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket 73401036-8729-43d5-8ce7-3f530d0f8035 from vendor 1, Wed Dec 11 18:19:17 IST 2024
+:: INFO, Vendor 5 is going add a ticket, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 5 has added 21b672a6-77cb-48f4-b1a3-27b42f2d9f24, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 3 has successfully bought the ticket 21b672a6-77cb-48f4-b1a3-27b42f2d9f24 from vendor 5, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 3 has added 558c775f-a14a-42a0-aff4-1c96cc3a9d1f, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 558c775f-a14a-42a0-aff4-1c96cc3a9d1f from vendor 3, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 1 has added 00ea78dc-8dd5-4fd1-b012-4bf280e820df, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket 00ea78dc-8dd5-4fd1-b012-4bf280e820df from vendor 1, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Executor service has been stopped, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 1 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 2 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 3 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 5 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 2 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 3 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 4 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 5 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Vendor 4 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Customer 1 thread is ended, Wed Dec 11 18:19:18 IST 2024
+:: INFO, Successfully set configuration, Wed Dec 11 18:19:20 IST 2024
+:: INFO, Executor service has been started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 1 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 2 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 3 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 1 has added 92dc50a6-8756-41f7-9ed3-740efa06185f, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 4 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 4 is going add a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 4 has added 0ceb9485-c791-4206-8fbf-3b1a91983c24, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 2 is going add a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 2 has added 5126fe22-d918-4430-b912-84ed4e4a6472, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 3 has added 07212365-7b81-4dd0-ac0d-ad2615095a64, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 5 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 5 is going add a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 5 has added 38de14c5-ac1e-47b6-8eff-4f0668f4da29, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 1 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket 92dc50a6-8756-41f7-9ed3-740efa06185f from vendor 1, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 2 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 0ceb9485-c791-4206-8fbf-3b1a91983c24 from vendor 4, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 3 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 4 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 5 thread is started, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 3 is going to buy a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 3 has successfully bought the ticket 5126fe22-d918-4430-b912-84ed4e4a6472 from vendor 2, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 5 is going to buy a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 5 has successfully bought the ticket 07212365-7b81-4dd0-ac0d-ad2615095a64 from vendor 3, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket 38de14c5-ac1e-47b6-8eff-4f0668f4da29 from vendor 5, Wed Dec 11 18:19:21 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:22 IST 2024
+:: INFO, Vendor 1 has added 9efee705-9479-42e2-a2ae-d7c10e50d2b9, Wed Dec 11 18:19:22 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:22 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 9efee705-9479-42e2-a2ae-d7c10e50d2b9 from vendor 1, Wed Dec 11 18:19:22 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:23 IST 2024
+:: INFO, Vendor 1 has added 61996fc3-80ea-4ef0-81c7-1c1e66ddb458, Wed Dec 11 18:19:23 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:23 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket 61996fc3-80ea-4ef0-81c7-1c1e66ddb458 from vendor 1, Wed Dec 11 18:19:23 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:23 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Vendor 3 has added 9d087a19-99b7-4c72-baf0-68c1dd0636af, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 9d087a19-99b7-4c72-baf0-68c1dd0636af from vendor 3, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Vendor 1 has added ababb4f7-e0a2-4085-bc14-33c23d198aef, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket ababb4f7-e0a2-4085-bc14-33c23d198aef from vendor 1, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Customer 5 is going to buy a ticket, Wed Dec 11 18:19:24 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:25 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:25 IST 2024
+:: INFO, Vendor 1 has added 6da94e35-0a7e-467d-99e9-6b6477cdf56f, Wed Dec 11 18:19:25 IST 2024
+:: INFO, Customer 5 has successfully bought the ticket 6da94e35-0a7e-467d-99e9-6b6477cdf56f from vendor 1, Wed Dec 11 18:19:25 IST 2024
+:: INFO, Customer 4 is going to buy a ticket, Wed Dec 11 18:19:25 IST 2024
+:: INFO, Vendor 2 is going add a ticket, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Vendor 2 has added 18e948fe-c80c-446e-b0fe-4bcfc40d4227, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket 18e948fe-c80c-446e-b0fe-4bcfc40d4227 from vendor 2, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Customer 3 is going to buy a ticket, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Vendor 1 has added 2e42ee60-5eb1-4cb4-a6ab-aafd02d21909, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Customer 4 has successfully bought the ticket 2e42ee60-5eb1-4cb4-a6ab-aafd02d21909 from vendor 1, Wed Dec 11 18:19:26 IST 2024
+:: INFO, Vendor 5 is going add a ticket, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 5 has added 01944fb2-743c-42b4-8dff-d14db09d265c, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 3 has successfully bought the ticket 01944fb2-743c-42b4-8dff-d14db09d265c from vendor 5, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 2 is going to buy a ticket, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 3 is going add a ticket, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 3 has added cfb6a4ae-8925-42dd-a905-42b43b268963, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 2 has successfully bought the ticket cfb6a4ae-8925-42dd-a905-42b43b268963 from vendor 3, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 1 is going to buy a ticket, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 1 is going add a ticket, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 1 has added 54743067-6573-4ac4-8e4b-26ad9f7b31da, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 1 has successfully bought the ticket 54743067-6573-4ac4-8e4b-26ad9f7b31da from vendor 1, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Executor service has been stopped, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 3 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 4 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 5 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 1 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 2 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 4 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 5 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 1 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Vendor 2 thread is ended, Wed Dec 11 18:19:27 IST 2024
+:: INFO, Customer 3 thread is ended, Wed Dec 11 18:19:27 IST 2024

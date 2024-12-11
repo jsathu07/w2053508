@@ -1,12 +1,8 @@
 package application.model;
 
-import application.logging.Log;
-import application.logging.LogType;
-
 import org.json.JSONObject;
 
 import java.io.File;
-import java.io.FileWriter;
 import java.util.Scanner;
 import java.util.UUID;
 
