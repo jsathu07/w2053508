@@ -24,3 +24,4 @@ Import the project into the IntelliJ IDE and run
 -  CustomerRetrivalRate depicts how frequently customers can purchase the tickets. Should be in seconds
 -  For simulation purposes, 5 vendors and customer threads are created with an integer ID
 -  Executor service is responsible for managing multithreading and is independent from both frontend and backend
+-  port for the socket is defined as 8080 and for front-end 5173
